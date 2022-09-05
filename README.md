@@ -33,4 +33,4 @@ I am a hopeful mathematician who has found himself enamored with creating mathem
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtmonroe)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtmonroe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtmonroe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
